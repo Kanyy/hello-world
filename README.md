@@ -1,2 +1,5 @@
 # hello-world
-Learning GitHub
+
+Hello World!
+
+This is Kanyy, Here ti rule the world.
